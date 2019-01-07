@@ -1,0 +1,5 @@
+# header
+background - #24292e
+
+# lower header
+background - #2f363d
