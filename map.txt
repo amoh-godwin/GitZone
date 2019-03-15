@@ -1,0 +1,19 @@
+								        [Login]
+	  							           |
+							           [Explore]
+   							               |
+				-----------------------------------------------------------------------	
+						    No Repos 	   | 		     Repositories
+						                                      |
+						                              [Repository]
+						                                  |
+						                          ---------------------
+						                          |                    |
+						                      [Code]               [Issues]
+						                        |                      |
+				                              Files              ------------------------
+				                                                 |                      |
+				                                                 Issues          No Issue
+				                                                   |
+				                                        ---------------------------
+			                                            [Issue Twenty] | [New Issue]
